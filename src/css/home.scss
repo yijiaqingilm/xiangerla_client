@@ -1,0 +1,9 @@
+@import "globalFunc";
+
+.strong {
+  @include setFontSize($middleFontSize)
+}
+.banner_img {
+  width: 100%;
+  height: 340px;
+}
